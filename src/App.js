@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import logo from './logo.svg'
 import './App.css'
 
-// const host = 'https://backend-360-sumetph.herokuapp.com'
-const host = 'http://localhost:4000'
+const host = 'https://sumetph-360-backend.herokuapp.com'
+// const host = 'http://localhost:4000'
 
 class App extends Component {
   render() {
