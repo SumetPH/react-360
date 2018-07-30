@@ -17,7 +17,8 @@ class App extends Component {
               title="panorama"
               width="80%"
               height="80%"
-              frameBorder="0"
+              scrolling='no'
+              style={{borderStyle:'none'}}
               src={`${host}/views/one.html`}
             />
           </div>
